@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 1 Notes: Introduction</title>
+      <link>/resources/mit6_096iap11_lec01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_lec01/data.json</guid>
+      <description>Lecture notes on compiled languages, high-level languages, C++, a &amp;ldquo;Hello, world!&amp;rdquo; program, basic language features, variables, input, and debugging.</description>
+    </item>
+    
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description> LEC # TOPICS LECTURE NOTES 1 Introduction (PDF) 2 Flow of control (PDF) 3 Functions (PDF) 4 Arrays and strings (PDF) 5 Pointers (PDF) 6 Classes (PDF) 7 Object-oriented programming (PDF) 8 Memory management (PDF) 9 Advanced topics I (PDF) 10 Advanced topics II (PDF) </description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_lec02.pdf</title>
+      <link>/resources/mit6_096iap11_lec02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_lec02/data.json</guid>
+      <description>This resource contains information related to flow of control.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_lec03.pdf</title>
+      <link>/resources/mit6_096iap11_lec03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_lec03/data.json</guid>
+      <description>This resource contains information related to functions.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_lec04.pdf</title>
+      <link>/resources/mit6_096iap11_lec04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_lec04/data.json</guid>
+      <description>This resource contains information related to arrays and strings.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_lec05.pdf</title>
+      <link>/resources/mit6_096iap11_lec05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_lec05/data.json</guid>
+      <description>This resource contains information related to pointers.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_lec06.pdf</title>
+      <link>/resources/mit6_096iap11_lec06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_lec06/data.json</guid>
+      <description>This resource contains information related to classes.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_lec07.pdf</title>
+      <link>/resources/mit6_096iap11_lec07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_lec07/data.json</guid>
+      <description>This resource contains information related to object oriented programming.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_lec08.pdf</title>
+      <link>/resources/mit6_096iap11_lec08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_lec08/data.json</guid>
+      <description>This resource contains information related to memory management.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_lec09.pdf</title>
+      <link>/resources/mit6_096iap11_lec09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_lec09/data.json</guid>
+      <description>This resource contains information related to advanced topics I.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_lec10.pdf</title>
+      <link>/resources/mit6_096iap11_lec10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_lec10/data.json</guid>
+      <description>This resource contains information related to advanced topics II.</description>
+    </item>
+    
+  </channel>
+</rss>

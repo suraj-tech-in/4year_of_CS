@@ -1,0 +1,8 @@
+{
+  "title":"6-096iap2011.jpg",
+  "description": "An xkcd comic about pointers. (Courtesy of Randall Munroe.)\r\n",
+  "file": "/courses/6-096-introduction-to-c-january-iap-2011/b128e8bbad92049f5516f79ec21139fc_6-096iap2011.jpg",
+  "learning_resource_types": [],
+  "resource_type": "Image",
+  "file_type": "image/jpeg",
+  "image_metadata": {"caption":"One of the defining features of C++ is that it makes heavy use of pointers, variables which store the numerical memory addresses of pieces of other data. (Courtesy of Randall Munroe. Original comic [can be found here](http://xkcd.com/138/).)","credit":"","image-alt":"An xkcd comic about pointers."}}

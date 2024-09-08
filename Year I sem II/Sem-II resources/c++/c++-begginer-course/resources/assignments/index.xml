@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>The four problem sets correspond to the lectures listed below. The final project was due at the end of the course.
+ASSIGNMENTS SOLUTIONS LECTURES Problem set 1 (PDF) (PDF) 1-2 Problem set 2 (PDF) (PDF) 3-5 Problem set 3 (PDF) (PDF) 6-8 Problem set 4 (PDF) (PDF) 9-10 Final project (PDF) </description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_assn01.pdf</title>
+      <link>/resources/mit6_096iap11_assn01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_assn01/data.json</guid>
+      <description>This resource contains information related to constants, L - values and R - values.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_assn02.pdf</title>
+      <link>/resources/mit6_096iap11_assn02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_assn02/data.json</guid>
+      <description>This resource contains information related to functions.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_assn03.pdf</title>
+      <link>/resources/mit6_096iap11_assn03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_assn03/data.json</guid>
+      <description>This resource contains information related to arrays of class objects.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_assn04.pdf</title>
+      <link>/resources/mit6_096iap11_assn04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_assn04/data.json</guid>
+      <description>This resource contains information related to templates and header files.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_project.pdf</title>
+      <link>/resources/mit6_096iap11_project/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_project/data.json</guid>
+      <description>This resource contains project description.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_sol01.pdf</title>
+      <link>/resources/mit6_096iap11_sol01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_sol01/data.json</guid>
+      <description>This resource contains solutions of &amp;ldquo;hello world&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_sol02.pdf</title>
+      <link>/resources/mit6_096iap11_sol02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_sol02/data.json</guid>
+      <description>This resource contains solutions of simple function.</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_sol03.pdf</title>
+      <link>/resources/mit6_096iap11_sol03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_sol03/data.json</guid>
+      <description>This resource contains solutions of &amp;ldquo;catch that bug.&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>MIT6_096IAP11_sol04.pdf</title>
+      <link>/resources/mit6_096iap11_sol04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit6_096iap11_sol04/data.json</guid>
+      <description>This resource contains solutions of multi-type.</description>
+    </item>
+    
+  </channel>
+</rss>
