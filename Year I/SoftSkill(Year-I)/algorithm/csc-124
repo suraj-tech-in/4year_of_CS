@@ -1,0 +1,121 @@
+CS124 Course Outline
+
+Spring 1997
+Harvard University
+
+Jan 29 (W)	Administrivia.  
+		Introduction to analysis of algorithms: 
+		insertion sort, mergesort, O-notation	
+		Reading: Chapter 1, Section 2.2
+
+Feb 3 (M)	Asymptotic notation.
+		Divide and conquer: quicksort, Strassen's algorithm,
+		recurrences.
+		Reading: Sections 2.1, 8.1-8.2,31.2.
+
+Feb 5 (W)	Recurrences, summations.
+		Reading: Chapters 3-4, excluding Section 4.4.
+		Problem Set 1 Handed out.
+
+Feb 10 (M)	Randomized algorithms; randomized quicksort, probability.
+		Reading: Sections 6.1-6.3, 8.3-8.4
+
+Feb 12 (W)	Median, order statistics.
+		Reading: Chapter 10.
+		Problem Set 2 Handed out.
+
+		*** Feb 14 (F)	 Problem Set 1 Due ***
+
+Feb 17 (M)	Holiday-President's Day
+	
+Feb 19 (W)	Sorting; heapsort, priority queues, dynamic sets,
+		amortized cost analysis.
+		Reading: Chapter 7.
+		Problem Set 3 Handed out.
+
+		*** Feb 21 (F)	 Problem Set 2 Due ***
+
+Feb 24 (M)	Sorting: lower bounds, counting sort, radix sort.
+		Reading: Chapter 9, excluding 9.4
+
+Feb 26 (W)	Data structures: hashing, collision resolution, chaining,
+		universal hashing.
+		Reading: Chapter 12, excluding Section 12.4
+		Problem Set 4 Handed out.
+
+		*** Feb 28 (F)	 Problem Set 3 Due ***
+
+Mar 3 (M)	Data structures: binary search trees, tree walks, 
+		relation to quicksort.
+		Reading: Chapter 13, excluding Section 13.4.
+
+Mar 5 (W)	Data structures: red-black trees, rotations, insertion, 
+		deletion.
+		Reading: Chapter 14.
+		Problem Set 5 Handed out.
+
+		*** Mar 7 (F)	 Problem Set 4 Due ***
+
+Mar 10 (M)	Dynamic programming: longest common subsequence. 
+		Reading: Chapter 16, excluding Section 16.4. Section 23.1.
+
+Mar 12 (W)	Dynamic programming (Cont.) and review.
+		Problem Set 6 Handed out.
+	
+		*** Mar 14 (F)	 Problem Set 5 Due ***
+
+Mar 17 (M)	Midterm exam
+
+Mar 19 (W)	Greedy algorithms: activity selection, 
+		minimum-spanning tree (Prim's algorithm)
+		Reading: Sections 17.1-17.3, Chapter 24.
+		Problem Set 7 Handed out.
+
+		*** Mar 21 (F)	 Problem Set 6 Due ***
+
+Mar 22-30	Spring Recess
+
+Mar 31 (M)	Minimum spanning tree (Kruskal's algorithm); 
+		disjoint-set union; amortized analysis.
+		Reading: Sections 24.2, 22.1-22.3, 18.1-18.2.
+
+Apr 2 (W)	Graph algorithms: depth-first search, topological sort, 
+		breadth-first-search.
+		Reading: Sections 23.2-23.4.
+		Problem Set 8 Handed out.
+
+		*** Apr 4 (F)	 Problem Set 7 Due ***
+
+Apr 7 (M)	Graph algorithms: Single-source shortest paths, 
+		Dijkstra's algorithm, Bellman-Ford algorithm, dag shortest paths.
+		Reading: Chapter 25.
+	
+Apr 9 (W)	Graph algorithms: all-pairs shortest paths, matrix multiplication, 
+		Floyd-Warshall algorithm, difference constraints.
+		Reading: Chapter 26, excluding Section 26.4.
+		Problem Set 9: Challenge Assignment 1 Handed out.
+
+		*** Apr 11 (F)	 Problem Set 8 Due ***
+
+Apr 14 (M)	Network flow
+		Reading: Sections 27.1-27.2
+
+Apr 16 (W)	Network flow: augmenting paths, residue graph, max-flow min-cut, 
+		Ford-Fulerson
+		Reading: Sections 27.2-27.3
+
+Apr 21 (M)	Network flow (Cont.)
+		
+Apr 23 (W)	Sorting networks
+		Reading: Chapter 28.
+		Problem Set 10: Challenge Assignment 2 Handed out.
+
+Apr 28 (M)	Wrap-up and Review
+		*** Apr 28 (M)	 Problem Set 9: Challenge Assignment 1 Due ***
+
+Apr 30 (W)	PS9 Presentations by Students
+
+May 3-14	Reading Period
+		*** May 5 (M)	 Problem Set 10: Challenge Assignment 2 Due ***
+
+May 16 (F)      Final Exam at 2:15pm Jefferson 250
