@@ -40,3 +40,20 @@ Contributions are welcome! Whether you're a student studying CSIT or have releva
    ```bash
    git clone https://github.com/your-username/college-journey.git
    cd college-journey
+3. **Create a new branch**
+   Create a new branch for your contribution:
+   ```bash
+   git checkout -b feature/add-course-notes
+4. **Make Your Changes**
+   Add or edit files in the respective folder for the semester and course you're contributing to.
+5. **Commit your changes**
+   Commit the changes you've made:
+   ```bash
+   git add .
+   git commit -m "Added notes for [Course Name] in [Semester]"
+6. **Push to your fork**
+   Push your changes to your GitHub fork:
+   ```bash
+   git push origin feature/add-course-notes
+7. **Submit a pull request**
+   Go back to the original repository and submit a pull request with a description of your changes.
