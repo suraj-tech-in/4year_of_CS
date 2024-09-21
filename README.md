@@ -11,7 +11,8 @@ The repository is organized into folders for each semester, and within those fol
 * **1st Year**
   * **Semester 1**
     * Semester 1 resources
-* Extra essential material's
   * **Semester 2**
-    * * Semester 2 resources
+    * Semester 2 resources
+* Extra essential material's
+ 
 ...
