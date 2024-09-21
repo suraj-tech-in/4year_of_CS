@@ -7,7 +7,7 @@ The repository is organized into folders for each semester, and within those fol
 * Assignments and projects
 * Exam preparation materials
 * Many personal recommended resources
-# Example Structure:
+## Example Structure:
 * **1st Year**
   * **Semester 1**
     * Semester 1 resources
