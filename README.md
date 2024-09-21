@@ -8,14 +8,10 @@ The repository is organized into folders for each semester, and within those fol
 * Exam preparation materials
 * Many personal recommended resources
 Example Structure:
-.
-├── 1st-year
-│   ├── Semester-1
-│   │   ├── Course-1
-│   │   ├── Course-2
-│   │   └── ...
-│   └── Semester-2
-│       ├── Course-1
-│       ├── Course-2
-│       └── ...
-└── 2nd-year
+* **1st Year**
+  * **Semester 1**
+    * Semester 1 resources
+* Extra essential material's
+  * **Semester 2**
+    * * Semester 2 resources
+...
