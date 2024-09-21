@@ -65,4 +65,9 @@ Contributions are welcome! Whether you're a student studying CSIT or have releva
 # 📝 Code of Conduct
 
 Be kind, respectful, and inclusive. We want to foster a collaborative and supportive learning environment. Please follow the [Code of Conduct](CODE_OF_CONDUCT.md).
+# 📜 License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+Feel free to add your contributions and make this repository a helpful resource for everyone studying BSc.CSIT!
 
