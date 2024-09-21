@@ -62,4 +62,7 @@ Contributions are welcome! Whether you're a student studying CSIT or have releva
 * **File Naming:** Use clear and descriptive file names like `Lecture-1.md` or `Assignment-2.pdf`.
 * **Formatting:** Make sure notes are structured well using headers, lists, and code blocks for better readability.
 * **Attribution:** Give credit to original authors if you're contributing notes or resources from other sources.
+# 📝 Code of Conduct
+
+Be kind, respectful, and inclusive. We want to foster a collaborative and supportive learning environment. Please follow the [Code of Conduct](link to your Code of Conduct).
 
