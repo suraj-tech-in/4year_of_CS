@@ -57,3 +57,9 @@ Contributions are welcome! Whether you're a student studying CSIT or have releva
    git push origin feature/add-course-notes
 7. **Submit a pull request**
    Go back to the original repository and submit a pull request with a description of your changes.
+# 📝 Guidelines
+
+* **File Naming:** Use clear and descriptive file names like `Lecture-1.md` or `Assignment-2.pdf`.
+* **Formatting:** Make sure notes are structured well using headers, lists, and code blocks for better readability.
+* **Attribution:** Give credit to original authors if you're contributing notes or resources from other sources.
+
