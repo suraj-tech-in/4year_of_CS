@@ -64,5 +64,5 @@ Contributions are welcome! Whether you're a student studying CSIT or have releva
 * **Attribution:** Give credit to original authors if you're contributing notes or resources from other sources.
 # 📝 Code of Conduct
 
-Be kind, respectful, and inclusive. We want to foster a collaborative and supportive learning environment. Please follow the [Code of Conduct](link to your Code of Conduct).
+Be kind, respectful, and inclusive. We want to foster a collaborative and supportive learning environment. Please follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
